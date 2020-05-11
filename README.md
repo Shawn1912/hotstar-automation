@@ -6,4 +6,5 @@ Automated login and play a series right from where you stopped watching in Hotst
 Used Selenium, Python3 and Google Chrome browser driver.
 
 
-I created a batch file (.bat) and added it to the Windows10 Task Scheduler.                                      - [How to make a batch file](https://datatofish.com/batch-python-script/)
+For the script to run daily at 7 PM, I created a batch file (.bat) and added it to the Windows10 Task Scheduler.
+[How to make a batch file](https://datatofish.com/batch-python-script/)
